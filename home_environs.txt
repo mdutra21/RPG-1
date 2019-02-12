@@ -1,0 +1,180 @@
+4	Hills	Volcanic	NW	Hot	0
+6	Sea Surface	None	HY	Normal	0
+4	Flat	Craters	LT	Normal	0
+4	Hills	Ice	NW	Normal	1
+2	Hills	Craters	NW	Normal	2
+2	Hills	Craters	HY	Normal	2
+3	Flat	Craters	LT	Normal	1
+2	Hills	Barren	HY	Cold	2
+4	Flat	Marsh	HY	Normal	1
+3	Hills	Ice	NW	Normal	3
+3	Hills	Woods	LT	Normal	1
+4	Hills	Light Vegetation	NW	Normal	0
+4	Flat	Craters	NW	Cold	1
+3	Peaks	Barren	LT	Hot	1
+4	Sea Floor	None	LT	Normal	4
+2	Hills	Craters	HY	Normal	1
+3	Hills	Forest	LT	Normal	1
+4	Mountains	Volcanic	NW	Hot	1
+3	Hills	Volcanic	LT	Hot	1
+2	Hills	Woods	LT	Hot	0
+4	Hills	Jungle	EX	Normal	0
+6	Flat	Light Vegetation	NW	Hot	0
+3	Hills	Woods	LT	Normal	0
+3	Hills	Light Vegetation	HY	Normal	1
+4	Hills	Ice	HY	Cold	1
+2	Hills	Woods	LT	Normal	1
+4	Flat	Barren	LT	Cold	0
+3	Peaks	Woods	LT	Normal	1
+3	Mountains	Light Vegetation	LT	Normal	1
+5	Sea Floor	None	LT	Normal	2
+5	Flat	Ice	HY	Normal	0
+3	Hills	Craters	HY	Normal	1
+3	Flat	Jungle	LT	Hot	1
+3	Hills	Volcanic	NW	Cold	1
+2	Mountains	Light Vegetation	NW	Normal	2
+3	Mountains	Craters	HY	Normal	1
+3	Mountains	Woods	HY	Normal	1
+3	Flat	Woods	LT	Normal	1
+3	Mountains	Volcanic	HY	Normal	2
+3	Hills	Volcanic	LT	Normal	2
+4	Mountains	Woods	HY	Normal	0
+3	Mountains	Light Vegetation	HY	Normal	1
+4	Peaks	Forest	HY	Hot	0
+5	Flat	Ice	HY	Cold	0
+2	Hills	Barren	EX	Normal	2
+4	Flat	Woods	EX	Normal	0
+3	Hills	Barren	LT	Hot	0
+3	Hills	Jungle	LT	Normal	2
+3	Mountains	Forest	LT	Normal	1
+2	Flat	Jungle	HY	Normal	3
+4	Mountains	Woods	HY	Normal	0
+6	Sea Submerged	None	HY	Normal	0
+3	Hills	Light Vegetation	HY	Hot	1
+2	Mountains	Barren	LT	Hot	1
+4	Flat	Barren	LT	Normal	0
+2	Flat	Light Vegetation	LT	Normal	1
+2	Flat	Light Vegetation	LT	Normal	1
+3	Mountains	Forest	HY	Normal	1
+4	Flat	Woods	HY	Cold	1
+3	Mountains	Craters	NW	Hot	3
+5	Mountains	Jungle	EX	Normal	0
+4	Hills	Light Vegetation	LT	Normal	0
+4	Hills	Jungle	HY	Hot	0
+3	Hills	Barren	NW	Normal	1
+6	Flat	Ice	EX	Cold	0
+5	Inland Canals	None	HY	Normal	0
+4	Flat	Marsh	HY	Normal	2
+2	Mountains	Light Vegetation	LT	Normal	1
+4	Flat	Ice	HY	Normal	1
+2	Hills	Craters	LT	Normal	2
+4	Flat	Ice	LT	Normal	0
+4	Flat	Woods	HY	Hot	0
+2	Mountains	Barren	LT	Normal	1
+4	Hills	Woods	LT	Normal	0
+3	Flat	Craters	LT	Normal	1
+3	Flat	Woods	HY	Normal	1
+2	Hills	Barren	LT	Hot	2
+3	Hills	Light Vegetation	LT	Normal	1
+4	Mountains	Volcanic	EX	Cold	2
+2	Hills	Light Vegetation	HY	Normal	1
+4	Hills	Light Vegetation	HY	Normal	0
+4	Flat	Barren	HY	Normal	0
+3	Hills	Woods	LT	Normal	1
+5	Flat	Ice	HY	Normal	0
+3	Hills	Craters	HY	Cold	1
+5	Inland Canals	None	LT	Normal	1
+3	Hills	Volcanic	HY	Normal	1
+2	Flat	Light Vegetation	EX	Hot	3
+3	Mountain	Woods	EX	Normal	2
+1	Hills	Woods	HY	Normal	4
+4	Flat	Light Vegetation	HY	Cold	0
+4	Flat	Light Vegetation	LT	Hot	0
+4	Peaks	Light Vegetation	HY	Normal	0
+4	Inland Canals	None	LT	Normal	1
+3	Peaks	Barren	HY	Hot	1
+3	Flat	Forest	LT	Cold	2
+3	Mountains	Volcanic	EX	Normal	1
+3	Flat	Jungle	HY	Hot	1
+5	Flat	Marsh	EX	Hot	2
+2	Flat	Light Vegetation	NW	Hot	4
+4	Mountains	Woods	LT	Hot	0
+3	Hills	Volcanic	LT	Normal	1
+4	Mountains	Forest	HY	Normal	0
+2	Flat	Woods	HY	Hot	1
+3	Sea Submerged	None	EX	Normal	3
+3	Hills	Flat	HY	Normal	1
+3	Mountains	Forest	LT	Normal	2
+3	Peaks	Light Vegetation	HY	Normal	1
+3	Hills	Jungle	LT	Hot	2
+2	Hills	Craters	LT	Hot	4
+4	Flat	Barren	HY	Normal	0
+4	Mountains	Forest	HY	Normal	0
+3	Flat	Forest	HY	Normal	1
+3	Mountains	Forest	HY	Normal	1
+4	Hills	Woods	EX	Hot	0
+3	Flat	Forest	LT	Cold	1
+4	Flat	Ice	HY	Normal	1
+4	Hills	Forest	EX	Cold	1
+2	Hills	Craters	HY	Normal	1
+1	Hills	Light Vegetation	HY	Normal	2
+5	Sea Submerged	None	EX	Normal	0
+3	Hills	Woods	HY	Normal	0
+4	Hills	Light Vegetation	LT	Hot	0
+3	Hills	Light Vegetation	HY	Hot	1
+4	Flat	Ice	HY	Normal	1
+4	Flat	Ice	LT	Normal	1
+4	Sea Surface	None	HY	Normal	1
+4	Mountains	Jungle	EX	Normal	1
+3	Hills	Volcanic	HY	Hot	1
+3	Hills	Forest	HY	Normal	1
+5	Flat	Marsh	EX	Normal	0
+4	Flat	Jungle	LT	Normal	0
+4	Hills	Jungle	LT	Hot	0
+4	Hills	Light Vegetation	LT	Hot	0
+3	Flat	Woods	LT	Normal	1
+2	Mountains	Light Vegetation	LT	Normal	1
+3	Hills	Woods	LT	Hot	0
+3	Mountains	Forest	NW	Normal	1
+4	Hills	Forest	EX	Hot	2
+2	Mountains	Barren	HY	Normal	2
+4	Flat	Jungle	LT	Normal	0
+4	Flat	Woods	HY	Cold	0
+3	Hills	Barren	LT	Cold	1
+4	Flat	Barren	HY	Cold	0
+3	Hills	Forest	EX	Normal	1
+4	Mountains	Light Vegetation	HY	Normal	0
+3	Peaks	Barren	LT	Normal	1
+3	Flat	Woods	LT	Cold	1
+2	Hills	Craters	EX	Normal	2
+1	Flat	Light Vegetation	LT	Cold	3
+3	Hills	Barren	HY	Normal	0
+5	Mountains	Forest	EX	Cold	0
+3	Hills	Craters	HY	Normal	1
+3	Mountains	Craters	HY	Hot	1
+5	Flat	Craters	EX	Cold	0
+4	Flat	Woods	LT	Normal	0
+3	Flat	Forest	HY	Hot	1
+3	Hills	Forest	LT	Cold	1
+4	Hills	Forest	EX	Hot	1
+2	Flat	Craters	LY	Cold	3
+4	Mountains	Craters	HY	Normal	0
+3	Mountains	Barren	LT	Normal	0
+3	Peaks	Craters	LT	Cold	1
+3	Flat	Barren	EX	Normal	1
+4	Flat	Marsh	EX	Normal	1
+3	Peaks	Craters	HY	Hot	1
+2	Mountains	Barren	EX	Normal	2
+4	Mountains	Jungle	HY	Normal	1
+2	Hills	Barren	HY	Normal	1
+3	Flat	Marsh	HY	Hot	4
+3	Mountains	Light Vegetation	EX	Normal	1
+4	Mountains	Barrens	EX	Normal	0
+4	Mountains	Forest	EX	Normal	0
+3	Mountains	Volcanic	EX	Normal	1
+2	Hills	Woods	HY	Hot	1
+3	Hills	Light Vegetation	EX	Normal	1
+4	Hills	Volcanic	EX	Normal	1
+2	Flat	Light Vegetation	LT	Normal	1
+3	Flat	Woods	HY	Normal	2
+3	Flat	Light Vegetation	EX	Hot	1

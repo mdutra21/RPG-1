@@ -1,0 +1,23 @@
+Unfostered Orphan	1 Mil	3
+Oppressed Minority	10 Mils	0
+Poor Colonist Family	10 Mils	1
+Poor Colonist Family	10 Mils	1
+Family on Hard Times	100 Mils	1
+Communal Colony	10 Mils	2
+Lower Middle Class	100 Mils	0
+Lower Middle Class	100 Mils	0
+Lower Middle Class	100 Mils	0
+Skilled Tech Family	1 Tran	1
+Skilled Tech Family	1 Tran	1
+Skilled Tech Family	1 Tran	1
+Local Establishment	1 Tran	-1
+Local Establishment	1 Tran	-1
+Local Establishment	1 Tran	-1
+Independent Traders	10 Trans	2
+Independent Traders	10 Trans	2
+Planetary Corp. Owner	10 Trans	-1
+Planetary Corp. Owner	10 Trans	-1
+Family Runs Planet	100 Trans	-2
+Family Runs Star System	100 Trans	-2
+Influential in Federation	200 Trans	-3
+Wealthy Dilettante	200 Trans	-4
